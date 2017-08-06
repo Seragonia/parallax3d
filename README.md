@@ -4,7 +4,8 @@ This project implements a game engine to create a "parallax scrolling" game usin
 
 ## Getting Started
 
-This project implements a game engine to create a "parallax scrolling" game using the canvas 3D engine (WebGL)
+After downloading the project, launch it from an HTTP server (if you are in localhost).
+Open index.html to see the demo.
 
 ## Technologies
 
