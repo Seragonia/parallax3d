@@ -13,7 +13,7 @@ Open index.html to see the demo.
 
 ## Author
 
-* **Willliam Lardier** - *Javascript, images layers*
+* **Willliam Lardier** - *Seragonia*
 
 See also the list of [contributors](https://github.com/Seragonia/parallax3d/graphs/contributors) who participated in this project.
 
